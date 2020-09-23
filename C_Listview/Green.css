@@ -1,0 +1,30 @@
+table {
+	font-family: "Courier New", Courier, mono;
+	font-size: 12px;
+	color: #336600;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: dashed;
+	border-left-style: none;
+	border-bottom-width: 2px;
+
+
+}
+td {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: dashed;
+	border-left-width: 2px;
+
+
+}
+th {
+	font-family: "Courier New", Courier, mono;
+	font-size: 14px;
+	font-weight: 400;
+	color: #FFFFFF;
+	background-color: #339933;
+	border: none;
+
+}
